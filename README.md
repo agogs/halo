@@ -8,7 +8,7 @@
 
 ------------------------------
 
-## 目录
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Quickstart](#quickstart)
@@ -20,7 +20,7 @@
 - [Todo](#todo)
 - [Thanks](#thanks)
 
-## Introduction 简介
+## Introduction
 
 **Halo** [ˈheɪloʊ]，meaning aura. Of course, you can also read it as a pinyin.
 
@@ -41,7 +41,7 @@ java -jar target/dist/halo/halo-xxx.jar
 
 Let's start: http://localhost:8090
 
-## Demo 演示
+## Demo
 
 [Interface preview](https://halo-doc.ryanc.cc/preview)
 
